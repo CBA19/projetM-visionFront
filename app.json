@@ -1,0 +1,12 @@
+{
+  "name": "MyReactNativeMVision",
+  "displayName": "MyReactNativeMVision",
+  "expo": {
+    "name": "MyReactNativeMVision",
+    "slug": "MyReactNativeMVision",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
